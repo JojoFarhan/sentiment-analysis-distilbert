@@ -1,0 +1,13 @@
+transformers==4.52.4
+torch==2.6.0  # Adjust for CPU if no GPU
+accelerate==1.8.1
+scikit-learn==1.2.2
+pandas==2.2.3
+numpy==1.26.4
+flask==3.1.1
+waitress==3.0.0
+jinja2==3.1.6
+beautifulsoup4==4.13.4
+emoji==2.14.1
+regex==2024.11.6
+streamlit==1.36.0
